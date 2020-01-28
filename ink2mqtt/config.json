@@ -1,6 +1,6 @@
 {
   "name": "ink to MQTT",
-  "version": "0.1",
+  "version": "0.2",
   "slug": "ink2mqtt",
   "description": "BETA: Query network printer using Ink (http://ink.sourceforge.net/) and send ink levels via MQTT",
   "hassio_api": true,

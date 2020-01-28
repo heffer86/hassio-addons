@@ -3,6 +3,7 @@
   "version": "0.1",
   "slug": "ink2mqtt",
   "description": "BETA: Query network printer using Ink (http://ink.sourceforge.net/) and send ink levels via MQTT",
+  "hassio_api": true,
   "url": "https://github.com/james-fry/hassio-addons/tree/master/rtl4332mqtt",
   "startup": "before",
   "boot": "auto",
